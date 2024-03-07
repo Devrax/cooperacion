@@ -48,17 +48,17 @@ Press & Dyson's findings *are* really important, but Scientific American confuse
 
 So, P&D found strategies that could exploit "evolutionary" *players* like Detective, but their strategies _still could not exploit the evolution of the tournament_, because in the long run, fair & nice strategies still win. 
 
-**"We have fewer friends -- period."**
+**"We have fewer friends; period."**
 
-Seriously, go read Robert Putnam's 2000 book, [Bowling Alone](http://bowlingalone.com/). Yeah it's a bit outdated by now, 17 years later, but its core findings and lessons are still true as ever -- probably even more so.
+Seriously, go read Robert Putnam's 2000 book, [Bowling Alone](http://bowlingalone.com/). Yeah it's a bit outdated by now, 17 years later, but its core findings and lessons are still true as ever; probably even more so.
 
 **"Non-zero-sum game" / "Win-Win"**
 
-This is kinda cheesy, but I still adore the 1989 book, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) -- especially Habit #4: Think Win-Win.
+This is kinda cheesy, but I still adore the 1989 book, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519); especially Habit #4: Think Win-Win.
 
 Because, contrary to popular belief, coming up with Win-Win solutions is hard, takes lots of effort, and is emotionally painful. Heck, I'd go even further – I'd say our culture's default stance of Win-Lose "us versus them" is the easy path, the lazy path, the equivalent of activism junk food.
 
-Anyway. Exaggerations aside, I strongly believe "Win-Win" / "Non-Zero-Sum" is something we all urgently need -- in our personal lives, social lives, and _definitely_ political lives.
+Anyway. Exaggerations aside, I strongly believe "Win-Win" / "Non-Zero-Sum" is something we all urgently need; in our personal lives, social lives, and _definitely_ political lives.
 
 **"Copykitten"**
 
