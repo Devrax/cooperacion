@@ -416,7 +416,7 @@ SLIDES.push({
 
 					// BUTTON
 					self.add({
-						id:"btn_next", type:"Button", x:510, y:446, 
+						id:"btn_next", type:"Button", x:510, y:486, 
 						text_id:"noise_evo_4_2_btn", size:"long",
 						message:"slideshow/next"
 					});
